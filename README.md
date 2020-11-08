@@ -19,6 +19,6 @@ Homing missiles with a TV camera on the nose that can feed some display in a coc
 
 Flight physics that strike a medium between arcade and simulator. Loosely based on the physics from the classic Jane's series of flight simulators.
 
-* [Project Source](https://github.com/brihernandez/SundayChallenges/tree/master/2.%20SimLite%20Physics)
+* [Project Source](https://github.com/brihernandez/SundayChallenges/tree/master/2.%20Simlite%20Physics)
 * [Stream 1](https://youtu.be/AOSNYa2RwLM)
 * [Stream 2](https://youtu.be/MYXIuBEtD-8)
