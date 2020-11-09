@@ -56,3 +56,6 @@ To activate the afterburner, max out the throttle at 100%, then press the Thrott
 |Left stick X|Roll|
 |Left stick Y|Pitch|
 |Triggers|Yaw|
+|Landing Gear|G|
+|Brakes|B|
+|Flaps|F|
