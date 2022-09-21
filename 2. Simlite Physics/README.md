@@ -27,6 +27,7 @@ Built in **Unity 2019.4.8f1**.
 
 ## Simple Waypoint Following AI
 ![screenshot](Screenshots/f16.png)
+
 In addition to the flight model, on the second stream I wrote some very basic AI. The AI will roll into turns and level out when the waypoint is in front of them. They use the same input and physics as the player. There is no PID controller, so the AI can sometimes oscillate with violent roll inputs.
 
 As long as AI can fly towards a point, they can do almost anything with the AI since it just becomes a matter of telling them what to fly towards.
